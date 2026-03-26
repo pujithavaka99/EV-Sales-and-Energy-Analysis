@@ -32,7 +32,10 @@ Regional trends highlight emerging markets and growth opportunities
 
 # Project Files
 EV Sales.pbix – Power BI dashboard file
-/images – Dashboard screenshots
+![Overview](images/overview.png)
+![Powertrain](images/powertrain.png)
+![Parameter](images/parameter.png)
+![Trends](images/trends.png)
 
 # How to Use
 Download the .pbix file
