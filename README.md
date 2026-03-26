@@ -37,6 +37,9 @@ EV Sales.pbix – Power BI dashboard file
 ![Parameter](images/parameter.png)
 ![Trends](images/yearlytrends.png)
 
+# Download dashboard
+You can download and explore the interactive dashboard using Power BI Desktop:  
+[Click here to download PBIX](EV Sales.pbix)
 # How to Use
 Download the .pbix file
 Open using Power BI Desktop
